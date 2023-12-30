@@ -1,6 +1,6 @@
 body {
-  color: white;
-  background-color: #202124;
+  color: #F7EBD5;
+  background-color: #292520;
 }
 
 ::-moz-selection {
@@ -10,7 +10,7 @@ body {
 }
 
 ::selection {
-  background: red;
+  background: #ABC4AA;
   color: #fff;
   text-shadow: none;
 }
@@ -40,7 +40,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #ddd;
+  color: #F3DEBA;
 }
 h1::before {
   color: var(--darkMaincolor);
@@ -77,7 +77,7 @@ a:hover {
 }
 
 .site-description a {
-  color: #ddd;
+  color: #F3DEBA;
 }
 .site-description a:hover {
   color: black;

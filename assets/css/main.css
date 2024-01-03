@@ -28,7 +28,7 @@ body{
 }
 
 p {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', monospace;
   line-height: 1.5;
 }
 

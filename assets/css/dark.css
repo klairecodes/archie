@@ -73,7 +73,7 @@ a {
 }
 a:hover {
   background-color: var(--darkMaincolor);
-  color: black;
+  color: inherit;
 }
 
 .site-description a {

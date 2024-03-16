@@ -52,7 +52,7 @@ a {
 }
 a:hover {
     background-color: var(--hovercolor);
-    color: #fff;
+    color: inherit;
 }
 
 ul {
